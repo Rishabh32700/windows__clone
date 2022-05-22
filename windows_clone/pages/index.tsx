@@ -4,10 +4,8 @@
 //   return element
 // }
 
-import { ReactElement } from "react";
+import { ReactElement } from 'react';
 
 export default function Home(): ReactElement {
-  return (
-    <h1>hello world !!!</h1>
-  )
+  return <h1>hello world !!!</h1>;
 }

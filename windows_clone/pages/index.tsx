@@ -3,7 +3,10 @@
 //   const element = <h1>{message}</h1>
 //   return element
 // }
-export default function Home() {
+
+import { ReactElement } from "react";
+
+export default function Home(): ReactElement {
   return (
     <h1>hello world !!!</h1>
   )

@@ -1,0 +1,11 @@
+{
+  "name": "windows__clone__next",
+  "version": "2.0.0",
+  "description": "desktop enviornment in browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Sharma",
+  "license": "MIT"
+}
